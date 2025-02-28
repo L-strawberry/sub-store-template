@@ -1,4 +1,4 @@
-# sub-store-template
+# sub-store-template & js<br>
 
 
 ### type=0,单条订阅；type=1，组合订阅；
